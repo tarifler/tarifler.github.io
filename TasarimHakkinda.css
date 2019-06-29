@@ -10,3 +10,7 @@ body
 {
     background-color: rgb(228, 200, 245);
 }
+a
+{
+	text-decoration: none;
+}
